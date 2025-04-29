@@ -5,7 +5,7 @@ In this project, I explored Netflix’s dataset using Python and Pandas to deriv
 
 **Project Description**
 
-This project demonstrates how to clean, analyze, and visualize data using Python libraries like **Pandas, NumPy**, and **Matplotlib/Seaborn**. It focuses on real-world problem-solving and insight extraction from the Netflix catalog dataset.
+This project demonstrates how to clean, analyze, and visualize data using Python libraries like **Pandas,**, and **Matplotlib/Seaborn**. It focuses on real-world problem-solving and insight extraction from the Netflix catalog dataset.
 
 **Key Questions & Insights**
 
